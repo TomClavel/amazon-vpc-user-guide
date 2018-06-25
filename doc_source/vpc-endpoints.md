@@ -17,7 +17,7 @@ An interface endpoint is an elastic network interface with a private IP address 
 + [AWS Systems Manager](http://docs.aws.amazon.com/systems-manager/latest/userguide/sysman-setting-up-vpc.html)
 + Elastic Load Balancing API
 + [Endpoint services](endpoint-service.md) hosted by other AWS accounts
-+ Supported AWS Marketplace partner services
++ Supported [AWS Marketplace](https://aws.amazon.com/marketplace/privatelink) partner services
 
 **Gateway Endpoints**  
 A gateway endpoint is a gateway that is a target for a specified route in your route table, used for traffic destined to a supported AWS service\. The following AWS services are supported:
